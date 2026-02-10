@@ -1,8 +1,6 @@
 // app/test/page.tsx
 
-export const dynamic = "force-dynamic";
-
-const API_BASE = "http://localhost:3000/api/external/get-blogs";
+const API_BASE = "https://blogtraffic.vercel.app/api/external/get-blogs";
 const API_KEY = process.env.API_TOKEN!;
 
 const headers = {
