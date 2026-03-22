@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "src/app/pdf/route.jsx"  ],
   "exclude": ["node_modules"]
 }

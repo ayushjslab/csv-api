@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "blogtraffic": "^1.0.2",
+    "mammoth": "^1.11.0",
     "next": "16.1.6",
+    "pdfkit": "^0.17.2",
     "react": "19.2.3",
     "react-dom": "19.2.3",
     "react-icons": "^5.5.0"
